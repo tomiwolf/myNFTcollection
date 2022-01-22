@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xE2Cd2141112498CDd2316e4980F43ADE2E0d61bD",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x8c8b53069462bedb2bd78754a4fc12f0b648e6a6",
+  "NETWORK": {
+    "NAME": "Rinkeby ",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Thug Capybaras",
+  "SYMBOL": "CPBR",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/thug-capybaras-v4",
+  "SHOW_BACKGROUND": true
+}
